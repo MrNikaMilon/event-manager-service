@@ -8,7 +8,7 @@ App in backend powered by
 * ~~Coffie~~ Java 21
 * Spring Boot 3+
 * PostgreSQL/Redis
-* RabbitMQ for pub/sub model
+* RabbitMQ *for pub/sub model*
 * Docker
 
 In front you see a HTMX(later Vue.js)
@@ -19,7 +19,7 @@ In fristly you may a create branch in next categorey:
 * feature/
 * refactoring/
 
-After coding, create a pr and send a message to maintainer me or Michel to approve your changes and merge into master branch.
+After coding, create a pr and send a message to maintainer [me](https://github.com/MrNikaMilon)  or [Michel](https://github.com/MrArepMich) to approve your changes and merge into master branch.
 
 #### Our idealogy by documentation:
 
@@ -33,4 +33,4 @@ We are an international team but:
 
 ### About us
 
-by NikaMilon and Michel
+*by [NikaMilon](https://github.com/MrNikaMilon) and [Michel](https://github.com/MrArepMich)*
